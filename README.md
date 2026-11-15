@@ -45,6 +45,16 @@ Specialty (CGE-AUD)**
 **Languages & Tools:** Python · OSCAL · Prowler
 
 ---
+## ▶️ Top LinkedIn Videos
+
+- [7 Zero Trust Architecture Tips NOBODY Tells You But Are Easy to Do](https://lnkd.in/p/gcqMndVs)
+- [Story Time: My First Breach](https://lnkd.in/p/gH9ZCKn6)
+- [How Does The US Government Use AI](https://lnkd.in/p/gGYPuWtN)
+- [Does AI Model Selection Matter?](https://lnkd.in/p/gpEnfjG3)
+- [My Favorite Artificial Intelligence Framework](https://lnkd.in/p/gtM2wvvp)
+- [Mistake-Proof GRC The Poka Yoke Way](https://lnkd.in/p/gH2JE8HV)
+
+---
 ## 🤝 Open To
 
 I'm available for **mentoring**, **speaking**, and **open-source collaboration**. If you're working on something at the intersection of GRC, AI, or healthcare — let's talk.
