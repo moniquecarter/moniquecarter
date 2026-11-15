@@ -49,7 +49,7 @@ Specialty (CGE-AUD)**
 
 - [7 Zero Trust Architecture Tips NOBODY Tells You But Are Easy to Do](https://lnkd.in/p/gcqMndVs)
 - [Story Time: My First Breach](https://lnkd.in/p/gH9ZCKn6)
-- [How Does The US Government Use AI](https://lnkd.in/p/gGYPuWtN)
+- [How Does The US Government Use AI?](https://lnkd.in/p/gGYPuWtN)
 - [Does AI Model Selection Matter?](https://lnkd.in/p/gpEnfjG3)
 - [My Favorite Artificial Intelligence Framework](https://lnkd.in/p/gtM2wvvp)
 - [Mistake-Proof GRC The Poka Yoke Way](https://lnkd.in/p/gH2JE8HV)
